@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{b}
+刘易伦.
+\newblock 探讨计算机科学与技术的跨越式发展.
+\newblock {\em 数字通信世界}, No.160(4):144.
+
+\bibitem{a}
+张炎.
+\newblock
+  《实用密码子》计算机软件分析基因重复测序结果的应用价值探讨.
+\newblock {\em 中国生物工程杂志}, (3):78--82.
+
+\bibitem{f}
+赵致琢.
+\newblock {\em 计算科学导论}.
+\newblock 1998.
+
+\bibitem{c}
+唐泽圣.
+\newblock 科学计算可视化.
+\newblock {\em 中国经济和信息化}, (z1):5--7, 1996.
+
+\bibitem{e}
+Ravil~I. Muhamedyev, Y.~Daineko, D.~Bari, and Alma~T. Mansharipova.
+\newblock Using computational models for development of the three-dimensional
+  visualization in molecular biology.
+\newblock In {\em 2014 IEEE 8th International Conference on Application of
+  Information and Communication Technologies (AICT)}, 2014.
+
+\bibitem{d}
+Qian Ying, Zhang Yu, Bingyu Guo, Shasha Ye, and Jiongmin Zhang.
+\newblock An improved promoter recognition model using convolutional neural
+  network.
+\newblock In {\em 2018 IEEE 42nd Annual Computer Software and Applications
+  Conference (COMPSAC)}, 2018.
+
+\end{thebibliography}
